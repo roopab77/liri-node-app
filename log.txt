@@ -31,3 +31,18 @@ Actors : Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
       Preview Link : null
       Album name : Punk Goes Pop
        
+Venue : Optus Stadium, 
+Location : Burswood, WA, Australia
+Date of Event : Friday, October 19, 2018 at 7:00PM
+Venue : Etihad Stadium, 
+Location : Docklands, Vic, Australia
+Date of Event : Friday, October 26, 2018 at 7:00PM
+Venue : ANZ Stadium, 
+Location : Sydney Olympic Park, Nsw, Australia
+Date of Event : Friday, November 2, 2018 at 7:00PM
+Venue : The Gabba, 
+Location : Woolloongabba, Qld, Australia
+Date of Event : Tuesday, November 6, 2018 at 7:00PM
+Venue : Mt Smart Stadium, 
+Location : Auckland, NZ, New Zealand
+Date of Event : Friday, November 9, 2018 at 8:00PM
