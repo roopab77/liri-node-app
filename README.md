@@ -1,4 +1,4 @@
-This assignment is about Language Interpretation and Recognition Interface.
+This app is about Language Interpretation and Recognition Interface.
 
 NPMs used
 
